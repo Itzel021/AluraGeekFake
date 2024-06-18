@@ -1,0 +1,31 @@
+{
+  "name": "alurageek-api",
+  "version": "1.0.0",
+  "description": "Plataforma para  registrar prouctos.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Itzell021"
+  },
+  "keywords": [
+    "alura",
+    "alurageek",
+    "json-server",
+    "javascript",
+    "API"
+  ],
+  "author": "Itzel Daniela Martinez Carrera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Itzel021/AluraGeek/issues"
+  },
+  "homepage": "https://github.com/Itzel021/AluraGeek#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
